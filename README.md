@@ -45,7 +45,6 @@ eg:
 
 ```
 filetree 
-├── ARCHITECTURE.md
 ├── main.py
 ├── README.md
 ├── readfile.py
